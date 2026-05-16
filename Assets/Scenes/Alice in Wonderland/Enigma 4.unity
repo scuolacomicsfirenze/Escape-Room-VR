@@ -7624,7 +7624,7 @@ GameObject:
   m_Component:
   - component: {fileID: 556535631}
   m_Layer: 8
-  m_Name: TableMirrorRotator+
+  m_Name: TableMirrorRotator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
